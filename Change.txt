@@ -1,0 +1,1 @@
+foreign key in aid and pid in ambulanceorder ---- change to RESTRICT to CASCADE
