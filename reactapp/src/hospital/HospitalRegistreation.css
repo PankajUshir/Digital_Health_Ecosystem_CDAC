@@ -1,0 +1,9 @@
+.formInput{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+
+    background-color: white;
+    padding: 10px 60px;
+    border-radius: 5px;
+}
